@@ -34,9 +34,9 @@ Each user has their own account and personal task list stored in the database.
 
 ## 📱 Screenshots
 
-<img src="screenshots/signUpPage.jpeg" width="100">
-<img src="screenshots/signIpPage.jpeg" width="100">
-<img src="screenshots/mainTaskPage.jpeg" width="100">
+<img src="screenshots/signUpPage.jpeg" width="250">
+<img src="screenshots/signInPage.jpeg" width="250">
+<img src="screenshots/mainTaskPage.jpeg" width="250">
 
 
 
