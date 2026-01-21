@@ -33,10 +33,10 @@ Each user has their own account and personal task list stored in the database.
 ---
 
 ## 📱 Screenshots
-
+<div display="flex" flex-direction="1">
 <img src="screenshots/signUpPage.jpeg" width="250">
 <img src="screenshots/signInPage.jpeg" width="250">
 <img src="screenshots/mainTaskPage.jpeg" width="250">
-
+</div>
 
 
